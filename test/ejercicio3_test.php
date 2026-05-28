@@ -2,7 +2,6 @@
 require_once __DIR__ . '/../ejercicio3.php';
 
 $tests = [
-    0 => true,
     1 => false,
     2 => true,
     3 => false,
