@@ -4,5 +4,8 @@
 //Complejidad: BAJA (1 punto)
 
 function generarTablaMultiplicar($num) {
-    // Tu código aquí
-}
+ $num++;
+   if ($num <=30 and $num % 3 ==0) {
+    echo $num . "<br>";
+   }};
+   generarTablaMultiplicar(3);
